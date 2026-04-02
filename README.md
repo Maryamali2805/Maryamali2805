@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Maryam 👋
 
-<!--
-**Maryamali2805/Maryamali2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics & Data Science student at the University of Bath, with a background in Electrical Electronics Engineering. I build data-driven solutions, from machine learning models to interactive dashboards and web applications.
 
-Here are some ideas to get you started:
+Currently seeking a **12-month industrial placement** (2026–2027) in data science, machine learning, or analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, R, SQL  
+**ML & Data:** Scikit-learn, XGBoost, TensorFlow, Pandas, NumPy  
+**Visualisation:** Power BI, Tableau, Plotly  
+**Web & Apps:** Next.js, Streamlit, HTML/CSS  
+**Other:** Git, GitHub, Excel, LLMs, RAG pipelines  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Customer Churn Prediction](https://github.com/Maryamali2805/customer-churn-prediction) | ML model to predict customer churn using Logistic Regression and XGBoost | Python, Scikit-learn |
+| [Diversified Stock Portfolio](https://github.com/Maryamali2805/Diversified-Stock-Portfoio) | AI-powered $100/month investment portfolio builder with allocation strategy | HTML, AI |
+| [Programming for Data Science](https://github.com/Maryamali2805/programming-for-data-science) | Numerical methods, clustering, and assessed Python projects | Python |
+
+---
+
+## 🎓 Background
+
+I started in Electrical Electronics Engineering before transitioning into Statistics and Data Science - which means I bring strong analytical foundations alongside modern ML and statistical skills. My experience includes working on national survey data at the **Gambia Bureau of Statistics**.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://www.linkedin.com/in/mariama-sanyang-7210b6284/))
+📧 ms4693@bath.ac.uk
+
+---
+
+*Open to placements, internships and Graduate role opportunities | Right to work in the UK*
