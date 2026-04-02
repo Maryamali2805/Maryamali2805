@@ -34,7 +34,7 @@ I started in Electrical Electronics Engineering before transitioning into Statis
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mariama-sanyang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mariama-sanyang-7210b6284/)
 📧 ms4693@bath.ac.uk
 
 ---
